@@ -1,0 +1,29 @@
+name: mobile_assignment
+description: "BMIT2073 Mobile Assignment"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.10.1
+  image_picker: ^1.0.4
+  syncfusion_flutter_signaturepad: ^25.1.35
+  intl: ^0.18.1
+  bcrypt: ^1.0.0
+  shared_preferences: ^2.5.3
+  path: ^1.8.3
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
