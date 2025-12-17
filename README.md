@@ -4,13 +4,13 @@
   
   Job Details: Access to comprehensive information for each job, including:
   
-    Customer details (name, contact, vehicle/equipment info).
+    - Customer details (name, contact, vehicle/equipment info).
     
-    Job description and requested services.
+    - Job description and requested services.
     
-    Assigned parts.
+    - Assigned parts.
     
-    Service history of the vehicle/equipment.
+    - Service history of the vehicle/equipment.
     
   Status Updates: Ability to change job status (e.g., "Accepted," "In Progress," "On Hold," "Completed").
   
